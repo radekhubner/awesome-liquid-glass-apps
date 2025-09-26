@@ -8,6 +8,7 @@ Step into the future with the Awesome Liquid Glass Apps collection, featuring th
 ## Finance
 - [Money Coach](https://apps.apple.com/cz/app/budget-planner-money-coach/id989642198)
 - [Orbit](https://apps.apple.com/cz/app/subscription-tracker-orbit/id6692620188)
+- [SubManager](https://apps.apple.com/app/submanager-subscription-list/id1632853914)
 
 ## Games
 - [Glass 2048](https://apps.apple.com/cz/app/glass-2048/id6749008064)
